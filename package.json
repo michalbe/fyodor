@@ -1,7 +1,10 @@
 {
   "name": "fyodor",
   "version": "1.0.1",
-  "author": "Michał Budzyński <michal@virtualdesign.pl>",
+  "author": [
+    "Michał Budzyński <michal@virtualdesign.pl>",
+    "Jakub Wasiak <qbawasiak@wp.pl>"
+  ],
   "repository": "git@github.com:michalbe/fyodor.git",
   "devDependencies": {
     "assert": "^1.1.1",
