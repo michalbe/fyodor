@@ -2,4 +2,4 @@
 
 var fs = require('fs');
 
-module.exports = fs.readFileSync(__dirname + 'static/text.txt').toString();
+module.exports = fs.readFileSync(__dirname + '/static/text.txt').toString();
